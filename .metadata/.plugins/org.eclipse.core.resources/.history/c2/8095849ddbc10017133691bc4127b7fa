@@ -1,0 +1,13 @@
+package combinatorialSolver;
+
+public class Permutation {
+
+	private Integer[] successor;
+	
+	public Permutation(Integer[] perm)
+	{
+		
+		
+	}
+	
+}

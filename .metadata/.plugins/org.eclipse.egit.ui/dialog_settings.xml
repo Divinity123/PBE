@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="GitCommitMessageComponent">
+		<list key="E:\Medical Database\New Padding Scheme\.git">
+			<item value="false"/>
+			<item value="Divinity123 &lt;guizichen_1994@hotmail.com&gt;"/>
+			<item value="New iteration that has correctness"/>
+			<item value="Divinity123 &lt;guizichen_1994@hotmail.com&gt;"/>
+			<item value="4635fb10dfffe5b8b3bc1eb613bd3728c946d714"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

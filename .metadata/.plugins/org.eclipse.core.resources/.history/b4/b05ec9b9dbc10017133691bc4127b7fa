@@ -1,0 +1,16 @@
+package combinatorialSolver;
+
+public class Permutation {
+
+	private Integer[] successor;
+	
+	public Permutation(Integer[] perm)
+	{
+		successor = new Integer[perm.length];
+		
+		for (int ii = 0; ii < perm.length - 1; ii++)
+			successor[perm[ii]] = perm[ii+1];
+		
+	}
+	
+}
